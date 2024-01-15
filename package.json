@@ -1,0 +1,19 @@
+{
+  "name": "local-api",
+  "version": "1.0.0",
+  "description": "A utility to store state in localStorage using @tanstack/react-query",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "localstorage",
+    "react-query",
+    "react",
+    "api",
+    "local",
+    "state"
+  ],
+  "author": "Surubuey",
+  "license": "MIT"
+}
