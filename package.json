@@ -15,5 +15,8 @@
     "state"
   ],
   "author": "Surubuey",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "@tanstack/react-query": "^5.17.12"
+  }
 }
